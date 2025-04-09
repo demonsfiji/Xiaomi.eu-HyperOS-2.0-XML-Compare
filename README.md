@@ -1,4 +1,4 @@
-[![HyperOS](https://i.imgur.com/DBEfanq.png)](https://xiaomi.eu/)
+https://xiaomitime.com/xiaomi-hyperos-2s-new-bug-fixes-announced-35449/[![HyperOS](https://i.imgur.com/DBEfanq.png)](https://xiaomi.eu/)
 
 # HyperOS XML changes by xiaomi.eu / hyperos.mi.com
 
